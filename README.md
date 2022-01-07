@@ -2,6 +2,9 @@
 A list of youtube channels with actually good, funny, or otherwise useful as well as properly curated content (no pading 30 seconds worth of information in a 15 minute video typpa stuff)
 ## The actual list
 Check boxes are for me (watched by me or not)
+- [x] Exurb1a
+- [x] Wisecrack
+- [x] Kurzgesagt
 - [ ] 3Blue1Brown
 - [ ] Adam Neely
 - [ ] Adam Savage Tested
@@ -17,9 +20,9 @@ Check boxes are for me (watched by me or not)
 - [ ] Blameitonjorge
 - [ ] Braincraft
 - [ ] Brutalmoose
-- [ ] Captain Disillusion 
-- [ ] Casually Explained
-- [ ] CGP Grey 
+- [x] Captain Disillusion 
+- [x] Casually Explained
+- [x] CGP Grey 
 - [ ] Cheddar
 - [ ] Chris flemings
 - [ ] Code Bullet
@@ -28,7 +31,7 @@ Check boxes are for me (watched by me or not)
 - [ ] Company Man
 - [ ] Computerphile 
 - [ ] Cooking and travel videos for true Slavs.
-- [ ] Crash Course
+- [x] Crash Course
 - [ ] Critical Role
 - [ ] dan bell
 - [ ] Dead Meat.
@@ -37,7 +40,6 @@ Check boxes are for me (watched by me or not)
 - [ ] Down the Rabbit Hole
 - [ ] Drew Gooden
 - [ ] erik
-- [ ] Exurb1a
 - [ ] Food Wishes
 - [ ] Geography Now
 - [ ] GraystillPlays
@@ -58,7 +60,6 @@ Check boxes are for me (watched by me or not)
 - [ ] JunsKitchen
 - [ ] Kilianexperience
 - [ ] Kitchen Nightmares/Hells Kitchen
-- [ ] Kurzgesagt
 - [ ] Kyle Hill/Because Science 
 - [ ] Lazy game reviews 
 - [ ] Legal Eagle 
@@ -92,14 +93,14 @@ Check boxes are for me (watched by me or not)
 - [ ] RealLifeLore
 - [ ] RedLetterMedia
 - [ ] Russian dash cam videos
-- [ ] Sam O'nella
+- [x] Sam O'nella
 - [ ] Scam Nation 
 - [ ] Sci Show
 - [ ] Sci Show Space
 - [ ] Scott The Woz
 - [ ] Secret Base
 - [ ] Sixty Symbols
-- [ ] Smarter Every Day
+- [x] Smarter Every Day
 - [ ] Soviet womble
 - [ ] Stand-up Maths 
 - [ ] Steve1989
@@ -120,10 +121,9 @@ Check boxes are for me (watched by me or not)
 - [ ] Up and Atom
 - [ ] Veritasium
 - [ ] Vihart
-- [ ] Vsauce
+- [x] Vsauce
 - [ ] Wendover Productions
 - [ ] Whang
-- [ ] Wisecrack
 - [ ] zefrank
 - [ ] Abroad in Japan
 - [ ] Action Lab
@@ -144,10 +144,9 @@ Check boxes are for me (watched by me or not)
 - [ ] BOLTR
 - [ ] BookingHunterTV
 - [ ] Brandon Rogers 
-- [ ] Captain Disillusion
+- [x] Captain Disillusion
 - [ ] CharactersWelcome UCB 
-- [ ] Charisma on Command
-- [ ] CinemaWins
+- [x] CinemaWins
 - [ ] Colin Furze
 - [ ] Cool Worlds
 - [ ] Corporate Sins
@@ -182,8 +181,6 @@ Check boxes are for me (watched by me or not)
 - [ ] Japan Day in the Life by Paolo
 - [ ] Japanese Love Hotels
 - [ ] Junkball
-- [ ] Just for Laughs Gags
-- [ ] Khan Academy
 - [ ] Kitchen Nightmares
 - [ ] Legal Eagle
 - [ ] Lindsay Ellis
@@ -194,7 +191,7 @@ Check boxes are for me (watched by me or not)
 - [ ] Mustard
 - [ ] Name Explained
 - [ ] Nerdy Nummies
-- [ ] Numberphile
+- [x] Numberphile
 - [ ] OK Go
 - [ ] On Cinema at the Cinema 
 - [ ] OverSimplified
@@ -222,7 +219,7 @@ Check boxes are for me (watched by me or not)
 - [ ] Techmoan 
 - [ ] The Delphos Saga
 - [ ] The Lizzie Bennett Diaries
-- [ ] The Onion 
+- [x] The Onion 
 - [ ] The Red Green Show
 - [ ] The Royal Institution
 - [ ] TheStraightPipes
