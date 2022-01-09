@@ -5,7 +5,7 @@ Check boxes are for me (watched by me or not)
 - [x] Exurb1a
 - [x] Wisecrack
 - [x] Kurzgesagt
-- [ ] 3Blue1Brown
+- [x] 3Blue1Brown
 - [ ] Adam Neely
 - [ ] Adam Savage Tested
 - [ ] Airforceproud95
