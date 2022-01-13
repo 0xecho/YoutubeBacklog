@@ -12,7 +12,7 @@ Check boxes are for me (watched by me or not)
 - [ ] Alpha Phoenix
 - [ ] Applied Science
 - [ ] Ask A Mortician
-- [ ] Atlas Pro
+- [x] Atlas Pro
 - [ ] Bald and Bankrupt
 - [ ] Bernadette Banner
 - [ ] Bill Wurtz
