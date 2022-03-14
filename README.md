@@ -6,6 +6,7 @@ Check boxes are for me (watched by me or not)
 - [x] Wisecrack
 - [x] Kurzgesagt
 - [x] 3Blue1Brown
+- [x] Sam O'nella
 - [ ] Adam Neely
 - [ ] Adam Savage Tested
 - [ ] Airforceproud95
@@ -15,7 +16,7 @@ Check boxes are for me (watched by me or not)
 - [x] Atlas Pro
 - [ ] Bald and Bankrupt
 - [ ] Bernadette Banner
-- [ ] Bill Wurtz
+- [x] Bill Wurtz
 - [ ] bingingwithbabish
 - [ ] Blameitonjorge
 - [ ] Braincraft
